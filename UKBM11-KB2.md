@@ -4,10 +4,10 @@
 
 No | Bidang | Manfaat Hubungan Internasional
 ---|---|---
- 1 | Ideologi | untuk menjaga keutuhan dan mempertahankan ideologi bangsa serta semakin yakin akan ideologi negara sendiri yang menjadi ciri khas negara kita.
+ 1 | Ideologi | untuk menjaga keutuhan dan mempertahankan ideologi bangsa serta semakin yakin akan ideologi negara sendiri. 
 2 | Politik | untuk meningkatkan produktivitas kegiatan kebijakan politik dan hubungan luar negeri guna menciptakan kepentingan nasional.
-3 | Ekonomi | 
-4 | Sosial Budaya |
+3 | Ekonomi | untuk menambah dan meningkatkan perekonomian nasional suatu bangsa dan negara.
+4 | Sosial Budaya | untuk mengembangkan
 5 | Pertahanan dan Keamanan |
 
 
