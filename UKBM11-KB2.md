@@ -17,8 +17,7 @@ No | Bidang | Manfaat Hubungan Internasional
 No | Nama Organisasi | Peran Indonesia
 --|--|--
 1 | APEC | Indonesia adalah tuan rumah dari Konferensi Tingkat Tinggi APEC 1994. Sebanyak 18 pemimpin negara anggota APEC hadir pada KTT tersebut. Hal ini menjadikan Indonesia sebagai sorotan dunia, sehingga menjadikan potensi pariwisata Indonesia menjadi disebarluaskan.
-2 | UNESCO | Indonesia mengatasi kesulitan finansial yang dialami UNESCO melalui program IFIT (Indonesia Funds-In-Trust). Langkah UNESCO untuk menerima Palestian sebagai anggotanya menyebabkan Amerika Serikat menghentikan pembayaran kontribusi negaranya.
-Indonesia terpilih sebagai anggota Badan Eksekutif UNESCO untuk periode 2017 – 2021. Hal ini merupakan bentuk partisipasi aktif Indonesia dalam UNESCO.
+2 | UNESCO | Indonesia mengatasi kesulitan finansial yang dialami UNESCO melalui program IFIT (Indonesia Funds-In-Trust). Langkah UNESCO untuk menerima Palestian sebagai anggotanya menyebabkan Amerika Serikat menghentikan pembayaran kontribusi negaranya. Indonesia terpilih sebagai anggota Badan Eksekutif UNESCO untuk periode 2017 – 2021. Hal ini merupakan bentuk partisipasi aktif Indonesia dalam UNESCO.
 3 | OKI | Indonesia mendorong negara-negara Islam untuk memperhatikan konflik antara Palestina-Israel dan mencari jalan keluar atas konflik tersebut.Indonesia menerima mandat sebagai Ketua dari Committee of Six. Indonesia bertugas memfasilitasi perundingan damai antara Moro National Liberation Front (MNLF) dengan Pemerintah Filipina pada tahun 1993. 
 4 |  | 
 5 |  | 
