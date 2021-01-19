@@ -7,8 +7,9 @@ No | Bidang | Manfaat Hubungan Internasional
  1 | Ideologi | untuk menjaga keutuhan dan mempertahankan ideologi bangsa serta semakin yakin akan ideologi negara sendiri. 
 2 | Politik | untuk meningkatkan produktivitas kegiatan kebijakan politik dan hubungan luar negeri guna menciptakan kepentingan nasional.
 3 | Ekonomi | untuk menambah dan meningkatkan perekonomian nasional suatu bangsa dan negara.
-4 | Sosial Budaya | untuk mengembangkan
-5 | Pertahanan dan Keamanan |
+4 | Sosial Budaya | untuk meningkatkan hubungan sosial budaya bangsa dalam rangka memberikan tindakan preventif dan represif akan bentuk ancaman, tantangan, hambatan, serta gangguan dan kejahatan nasional untuk menciptakan pembangunan nasional yang positif.
+5 | Pertahanan dan Keamanan | untuk menunjang sistem keamanan bangsa dan negara dalam rangka meningkatkan dan menjaga integrasi nasional.
+
 
 
 2. Peran Indonesia dalam organisasi internasional :
