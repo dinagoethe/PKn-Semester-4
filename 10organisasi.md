@@ -11,6 +11,6 @@ No | Nama organisasi | Latar Belakang berdirinya organisasi | Tujuan organisasi 
 5.|Asia Pacific Economic Cooperation (APEC) | APEC didirikan pada tahun 1989 sebagai tanggapan terhadap pertumbuhan interdependensi ekonomi negara-negara Asia-Pasifik dan lahirnya blok perdangangan lain di bagian-bagian lain dunia; ketakutan akan Jepang mendominasi kegiatan ekonomi di kawasan Asia-Pasifik, dan untuk mendirikan pasar baru untuk produk agrikultural dan bahan mentah di luar Eropa. | Untuk mengukuhkan pertumbuhan ekonomi, mempererat komunitas dan mendorong perdagangan bebas di seluruh kawasan Asia-Pasifik. | 22 anggota termasuk Australia, Kanada, Indonesia, Brunei Darusalam, Rusia, Jepang, Korea, Tiongkok, Malaysia, dan, Selandia Baru. 
 6.|Gerakan Non-Block | Negara-negara yang baru merdeka dan berkembang tak ingin terseret pertarungan politik AS dengan Uni Soviet. Yang jadi sasarannya, negara-negara berkembang yang baru merdeka seperti Indonesia dan India. | Untuk menjamin "kemerdekaan, kedaulatan, integritas tertorial, dan keamanan dari negara-negara non-block" dalam perjuangan mereka menentang imperialisme, kolonialisme, neo-kolonialisme, apartheid, zionisme, rasisme, dan segala bentuk agresi militer, pendukukan, dominasi, interfensi atua hegemoni dan menentang segala bentuk blok politik | 120 anggota, termasuk Zambia, Aljazair, Sri Lanka, Kuba, India, Zimbabwe, Kolombia, Afrika Selatan dan Malaysia. **5 negara pendiri : Yugoslavia, Indonesia, Mesir, India, Ghana.**
 7.| International Labour Organization (ILO)|
-8.| (WTO)
-9.| (IMF)
-10.| (FAO)
+8.| World Trade Orgnization (WTO) |
+9.| International Monetary Fund (IMF) |
+10.| Food and Agricultural Organization (FAO)|
